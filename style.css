@@ -1,0 +1,28 @@
+*{
+    font-family: 'Titillium Web', sans-serif;
+}
+.carousel-item img{
+    width: 10%;
+    height: 60vh;
+}
+.c{
+    /* margin-top: 10px;
+    margin-left: 200px; */
+}
+.navbar-nav{
+    /* margin-left: 900px; */
+}
+.col-md-6{
+    /* width: 500px;
+    height: 350px; */
+    
+}
+.row{
+    /* margin-left: 100px;
+    margin-top: 20px; */
+
+}
+.col img{
+    /* width: 40%;
+    height: 40%; */
+}
